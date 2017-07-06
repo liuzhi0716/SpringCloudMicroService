@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eurekk-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: SpringCloud
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/eurekk-serve
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
